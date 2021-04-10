@@ -16,6 +16,6 @@
 2. list2
 3. list3
 
-- [ ] abc
+- [x] abc
 - [ ] def
 - [ ] ghi
